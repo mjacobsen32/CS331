@@ -1,0 +1,18 @@
+CS 331 Programming Assingment 3
+By: Matthew Jacobsen & Jackson Miller
+
+
+__________________________________
+
+
+trained on:	trainingSet.txt
+tested on:	trainingSet.txt
+accuracy: 458 / 499 = 0.9178356713426854
+
+
+__________________________________
+
+
+trained on:	trainingSet.txt
+tested on:	testSet.txt
+accuracy: 361 / 497 = 0.7263581488933601
